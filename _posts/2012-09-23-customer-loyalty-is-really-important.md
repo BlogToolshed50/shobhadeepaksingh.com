@@ -1,0 +1,20 @@
+---
+id: 684
+title: Customer Loyalty is really important
+date: 2012-09-23T21:53:00+00:00
+author: author
+layout: post
+guid: http://www.shobhadeepaksingh.com/2012/09/23/customer-loyalty-is-really-important/
+permalink: /2012/09/23/customer-loyalty-is-really-important/
+categories:
+  - Uncategorized
+---
+Introduction: Customer loyalty can be defined as a behavior or attitude of a customer to purchase a particular product of a specific brand over others which available in the market for a particular need. The packaged good industry defines this consumer attitude as ‘Brand Loyalty’. Brand loyalty can be defined as “The degree to which a customer is loyal to a given brand in that they are likely to re-purchase/re-use in the future. The level of loyalty indicates the degree to which a brand is protected form competitors” (Yellow Pencil).
+
+Customer loyalty has become the buzz word of the marketing industry (Papers4you.com, 2006). Companies are constantly trying to increase their brand awareness by promoting loyalty schemes, making more and more people buy their products. Regular maintenance of customer database containing customer, sales data and other statistical data is a good technique to measure customer loyalty. By constantly analyzing this data companies can increase their customer loyalty.
+
+Brand Equity: In general brand equity is the value a customer places on brand. If the brand is trusted the equity will be positive but if the brand has a bad reputation the equity will be negative. The Marketing Science Institute (MSI) states that brand equity can be viewed by customers &#8220;&#8230;as both a financial asset and as a set of favorable associations and behaviors&#8221; (MSI 1989). While Farquhar (1989) contends that brand equity to a consumer follows from a positive evaluation of, or attitude toward, the branded product, Keller (1993) hypothesizes that consumer-based brand equity arises from a more favorable differential response to the firm&#8217;s marketing efforts. Concept of brand equity is associated with the financial and accounting perspective like estimating the value of a brand also this concept is studied while working on strategic marketing activities.
+
+Customer Satisfaction & Retention: It is difficult to achieve a sustainable competitive advantage in n today’s world of fierce competition where every company is trying to prove their product better than the others. Providing excellent customer service and retaining existing customers can help companies to achieve competitive edge over others in the market place. It&#8217;s been estimated that the cost to land a new account is as much as six times the cost to retain an existing one. (Alan S. Horowitz).A minor increase in the customer number can create a big impact on the total profits that is why customer retention plays an important role. Now the question arises how to retain customers? Customer retention can be achieved by loyalty schemes and programs all these activities involve developing strong customer relation, greater attention to details and customer expectations. All customer retention programs should focus a particular customer base. It has been argued that loyalty schemes take time to produce immediate benefits for customers hence many customers move out these schemes very quickly. “Formal loyalty programs can be challenging to implement and may not be an optimal way to achieve retention and profitability goals but when they are done right loyalty programs can help converting more prospects into buyers” (Shari Altman).
+
+Customer loyalty plays a very essential role in the performance of a company (Papers4you.com, 2006). By retaining existing customers and expanding customer base companies create a brand equity which is positive. Though we say that customer loyalty is an important factor in today’s competitive market but what is more important is to manage and maintain loyalty. Loyalty schemes should be highly focused and should build on strong customer relationship in order to achieve 100% customer satisfaction.
