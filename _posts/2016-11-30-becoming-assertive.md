@@ -5,6 +5,7 @@ layout: post
 categories:
   - General
 —--
+
 If you're one of the many who find it difficult to assert themselves the following might be of assistance. Remember, you don't exist on this planet to be someone's doormat.
 
 1. Don't avoid expressing your negative or critical feelings. They are not bad or improper, they are just your feelings and you are entitled to them.
